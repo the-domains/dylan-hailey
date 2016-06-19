@@ -11,6 +11,8 @@ color:
     - '#7FB2F0'
     - '#ADD5F7'
 layout_spectrum: 0.15911739552393556
+analytics:
+  facebook: '157690511312539'
 author:
   name: Dylan Hailey
   email: me@dylanhailey.com
