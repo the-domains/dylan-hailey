@@ -1,24 +1,36 @@
-typography_spectrum: 0.7738255676813424
+author:
+  name: Dylan Hailey
+  email: me@dylanhailey.com
+  url: www.DylanHailey.com
+title: Just the blog of a noob
+name: Dylan Hailey
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6455808
   brandStrength: 0.9997870638035238
-  lightness: 0.3612571004778147
-  saturation: 0.6455808375030756
-  rhythmicContrast: 0.7057067914865911
+  lightness: 0.603115
   brandColors:
     - '#16193B'
     - '#35478C'
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-layout_spectrum: 0.15911739552393556
+  rhythmicContrast: 0.7057068
+typography_spectrum: 0.6589689
+layout_spectrum: 1
 analytics:
   facebook: '157690511312539'
   google: UA-64751706-1
-author:
-  name: Dylan Hailey
-  email: me@dylanhailey.com
-  url: www.DylanHailey.com
-name: Dylan Hailey
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/569b7c45-d6d2-4f26-b07a-d0878bceb509.jpg
-title: Just the blog of a noob
