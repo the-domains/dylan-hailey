@@ -1,11 +1,11 @@
 ---
 description: This is a demo post for now.
-dateModified: '2016-06-19T20:31:15.384Z'
-datePublished: '2016-06-19T20:31:20.908Z'
+dateModified: '2016-06-19T20:32:41.648Z'
+datePublished: '2016-06-19T20:33:34.611Z'
 title: Why you should use HTTPS
 author: []
-starred: false
 sourcePath: _posts/2016-06-19-why-you-should-use-https.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
